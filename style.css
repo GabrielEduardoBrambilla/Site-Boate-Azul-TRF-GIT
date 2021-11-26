@@ -1,4 +1,11 @@
 *{
-    background-color: blue;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 35px;
+}
+
+body {
+    background-color: #643effde;
     color: white;
+    margin: 80px;
 }
